@@ -1,6 +1,13 @@
-<img src=https://rustacean.net/assets/rustacean-flat-happy.svg width=256>
+<p align="center">
+  <img src=https://rustacean.net/assets/rustacean-flat-happy.svg width=256>
+</p>
 
-# rusty_pi
+<h1>
+  <p align="center">
+    rusty_pi
+  </p>
+</h1>
+
 Implementation of Monte Carlo PI approximation algorithm in Rust Python bindings.
 
 Time of 100M iterations approximation on Core i7 10th gen:
